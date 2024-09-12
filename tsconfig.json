@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "lib": [
+            "es5",
+            "dom",
+            "ES2015.Promise"
+        ],
+        "module": "commonjs",
+        "target": "es5",
+        "outDir": "ts-built",
+        "rootDir": "script"
+    }
+  }
